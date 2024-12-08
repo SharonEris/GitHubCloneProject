@@ -1,1 +1,1 @@
-"This is the description of my repo" 
+"Objective of this task: Practice creating branches, merging branches, and resolving merge conflicts." 
